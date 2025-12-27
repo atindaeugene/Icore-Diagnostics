@@ -1,0 +1,7 @@
+{
+  "name": "Icore Diagnostics - Clinical Lab & Ultrasound",
+  "description": "Comprehensive diagnostics provider with branches in Athi River and Kitengela, offering clinical lab tests and advanced ultrasound services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
